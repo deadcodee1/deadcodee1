@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/8b/c8/13/8bc8138470ece0f8c5a6dc3cd715de92.png)
 <h1 align="center">Hi 👋, I'm Dead Code</h1>
 <h3 align="center">Mobile Application Developer</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deadcodee1&label=Profile%20views&color=0e75b6&style=flat" alt="deadcodee1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ahmedasaad2002" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedasaad2002?logo=twitter&style=for-the-badge" alt="ahmedasaad2002" /></a> </p>
