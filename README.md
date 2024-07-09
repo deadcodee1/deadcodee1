@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Pointes Basketball**
+- 👯 I’m looking to collaborate on **News App**
 
 - 💬 Ask me about **Dart, JavaScript**
 
